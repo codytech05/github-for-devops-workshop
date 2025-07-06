@@ -1,0 +1,34 @@
+   1 ls
+   3 python --version
+   4 git --version
+   5 date
+   6 git init
+   7 git status
+   8 git status
+   9 git add testing.py
+  10 ls
+  11 git status
+  12 git add .
+  13 git status
+  14 git rm --cached testing.py
+  15 git status
+  16 la
+  17 ls
+  18 dir
+  19 dir -a
+  20 clear
+  21 git status
+  22 git add .
+  23 ls
+  24 git status
+  25 git commit -m "added testing file"
+  26 git commit -m "added testing files"
+  27 git config --global user.name "Om Kumar"
+  28 git config --global user.email "omkumar7009@gmail.com"
+  29 git commit -m "added testing files"
+  30 git status
+  31 git status
+  32 rm testing.py
+  33 git statuss
+  34 git status
+  35 git restore testing.py
